@@ -1,0 +1,5 @@
+require('@Service/vuex')
+require('@Service/router')
+require('@Service/events')
+require('@Service/filters')
+require('@Service/directives')
